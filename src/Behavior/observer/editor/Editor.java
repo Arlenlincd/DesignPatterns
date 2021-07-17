@@ -6,7 +6,7 @@ import java.io.File;
 
 /**
  * @ClassName: Editor
- * @Description: 具体发布者， 由其他对象追踪
+ * @Description: 具体发布者，由其他对象追踪
  * @Author: arlin
  * @Date: 2021/6/28
  */
